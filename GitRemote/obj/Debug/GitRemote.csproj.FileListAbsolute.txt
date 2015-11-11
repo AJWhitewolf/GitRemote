@@ -1,0 +1,5 @@
+c:\users\adunigan\documents\visual studio 2013\Projects\GitRemote\GitRemote\bin\Debug\GitRemote.exe
+c:\users\adunigan\documents\visual studio 2013\Projects\GitRemote\GitRemote\bin\Debug\GitRemote.pdb
+c:\users\adunigan\documents\visual studio 2013\Projects\GitRemote\GitRemote\obj\Debug\GitRemote.csprojResolveAssemblyReference.cache
+c:\users\adunigan\documents\visual studio 2013\Projects\GitRemote\GitRemote\obj\Debug\GitRemote.exe
+c:\users\adunigan\documents\visual studio 2013\Projects\GitRemote\GitRemote\obj\Debug\GitRemote.pdb
